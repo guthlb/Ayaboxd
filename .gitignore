@@ -28,7 +28,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Custom ignores
-api.js
+# Ignore local env files
 .env
-.env.*
+.env.local
