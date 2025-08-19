@@ -1,3 +1,3 @@
 # Ayaboxd !
 
-<img width="1032" height="539" alt="ayaboxd-desktop" src="https://github.com/user-attachments/assets/bc861d98-28d4-4a90-9b5c-895ede6781b1" />
+<img width="959" height="539" alt="ayaboxd" src="https://github.com/user-attachments/assets/6dcf156f-bc69-4845-8900-325e08015a5b" />
