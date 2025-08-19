@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/5714e29b-38c3-46c4-8e37-454de826af69/Lastik-Regular.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250819%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250819T050956Z&X-Amz-Expires=86400&X-Amz-Signature=15f36c584189eb1d3e8cc3d353195100bd530b9c6020275a83f76cda337ef4d1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Lastik-Regular.woff2%22&response-content-type=font%2Fwoff2&x-id=GetObject

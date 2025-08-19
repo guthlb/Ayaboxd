@@ -1,0 +1,14 @@
+
+@import "tailwindcss";
+@font-face {
+  font-family: 'Lastik';
+  src: url('./fonts/Lastik.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+*{
+  font-family:'Lastik';
+  font-weight: 500;
+}
+
+
